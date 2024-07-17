@@ -1,0 +1,98 @@
+.resume{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-right: 80px;
+    font-size: 20px;
+    flex-wrap: wrap;
+    background-color: rgb(247, 236, 236);
+    
+}
+.information{
+    width: 20%;
+    margin-left: 5%;
+    padding: 10px;
+}
+
+
+.bachelor{
+    padding: 10px 10px 10px 0px;
+    line-height: 25px;
+}
+.plus2{
+    padding: 10px 10px 10px 0px;
+    line-height: 25px;
+}
+.see{
+    padding: 10px 10px 10px 0px;
+    line-height: 25px;
+}
+
+
+
+
+.list{
+    padding: 17px;
+    padding-left: 18px;
+    line-height: 30px;
+}
+.lang{
+    padding: 17px;
+    line-height: 30px;
+    padding-left: 18px;
+}
+
+.profile-2{
+    width: 55%;
+}
+
+
+.pro p{
+    padding: 10px 10px 10px 0px;
+    line-height: 25px;
+}
+.portfolio h3{
+    padding-top: 10px;
+}
+.portfolio list{
+    padding: 17px;
+    padding-left: 18px;
+    line-height: 25px;
+
+}
+.todo list{
+    padding: 17px;
+    padding-left: 18px;
+    line-height: 25px;
+}
+.ecommerce list{
+    padding: 17px;
+    padding-left: 18px;
+    line-height: 25px;
+}
+.links{
+    line-height: 25px;
+    
+}
+.links p{
+    padding: 10px 10px 5px 0px;
+
+    color: rgb(34, 33, 33);
+}
+.links p span{
+    color: rgb(57, 53, 53);
+}
+
+p, li{
+    color: rgb(59, 56, 56);
+}
+h2{
+    color: rgb(31, 30, 30);
+    background-color: rgb(173, 168, 156);
+}
+h3,h4{
+    color: rgb(33, 31, 31);
+    
+}
+
+
